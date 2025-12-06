@@ -1,1 +1,0 @@
-Hecho por Axel Bernales
