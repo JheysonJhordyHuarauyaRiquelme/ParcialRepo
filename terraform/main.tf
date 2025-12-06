@@ -1,3 +1,5 @@
+#Configuración principal de la infraestructura AWS
+
 provider "aws" {
   region = "us-east-1"
 }
